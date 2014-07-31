@@ -1,3 +1,4 @@
 build/
+ases.egg-info/
 *.py[oc]
 *~
