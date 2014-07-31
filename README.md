@@ -1,3 +1,6 @@
+THIS IS A WIP PROJECT. IT DOESN'T RUN YET.
+
+
 Amazon SES sendmail
 ===================
 
